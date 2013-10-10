@@ -1,4 +1,4 @@
 cs210
 =====
 
-Repo for cs210 class
+Git repo for CS210 at SSU
